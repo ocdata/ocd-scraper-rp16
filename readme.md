@@ -1,6 +1,6 @@
 # Open Confernce Data Scraper for #rp16
 
-This is a standalone scrpaer to retrieve session and speaker data from [Re:publica 16](https://16.re-publica.de/) and convert it to Open Conference Data compliant JSON. 
+This is a standalone scraper to retrieve session and speaker data from [Re:publica 16](https://16.re-publica.de/) and convert it to Open Conference Data compliant JSON. 
 
 ## Install
 
