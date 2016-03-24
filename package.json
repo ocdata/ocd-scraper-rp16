@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "ocd-scraper-rp16",
+  "version": "0.1.0",
+  "description": "open conference data scraper for republica 2016",
+  "main": "scraper.js",
+  "author": "Sebastian Vollnhals <node@yetzt.me> (https://yetzt.me/)",
+  "license": "Unlicense",
+  "dependencies": {
+    "clone": "^1.0.2",
+    "debug": "^2.2.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.11.2",
+    "queue": "^3.1.0",
+    "scrapyard": "^0.1.0"
+  }
+}
